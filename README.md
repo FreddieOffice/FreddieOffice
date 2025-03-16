@@ -1,6 +1,8 @@
-# Amogus Sussy Baka
+# Read me
 
-i program in lua
+i program in lua and c++
+i make roblox games
+and im currently working on an opengl game engine (Tin)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreddieOffice"/>
 
